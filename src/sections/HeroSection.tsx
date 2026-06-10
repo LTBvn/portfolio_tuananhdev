@@ -117,8 +117,8 @@ function HeroSection() {
 
           <div className="flex flex-wrap items-center gap-4 pt-2">
             <a
-              href="/CV_Le_Tuan_Anh_SoftwareEngineer.pdf"
-              download="CV_Le_Tuan_Anh_SoftwareEngineer.pdf"
+              href="/CV_Le_Tuan_Anh.pdf"
+              download="CV_Le_Tuan_Anh.pdf"
               className="inline-flex items-center justify-center gap-2 rounded-full bg-cyan-500 px-8 py-3 text-sm font-semibold text-slate-950 transition duration-200 hover:bg-cyan-400"
             >
               <Download size={16} />
